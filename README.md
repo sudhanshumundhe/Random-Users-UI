@@ -12,14 +12,6 @@ The UI is built with a dark theme, smooth animations, and a responsive card layo
 https://user-random-app.netlify.app/
 ---
 
-## 👨‍💻 Author
-
-**Your Name:** Your Full Name Here
-**GitHub:** [https://github.com/your-username](https://github.com/your-username)
-**Live Portfolio:** [https://your-portfolio-link.com](https://your-portfolio-link.com)
-
----
-
 ## ✨ Features
 
 * 📡 Fetch random users from API
@@ -87,14 +79,6 @@ or
 npm start
 ```
 
-## 📁 Folder Structure
-
-```
-src/
- ├── App.jsx
- ├── App.css
- ├── main.jsx
-```
 
 👨‍💻 Author
 Sudhanshu Mundhe
