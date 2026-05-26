@@ -1,6 +1,3 @@
-Got it — here is your **updated professional README.md with username + live links section added** 👇
-
----
 
 # 🌍 Random Users Explorer (React App)
 
